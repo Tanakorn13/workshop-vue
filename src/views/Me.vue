@@ -13,10 +13,7 @@
         >
           <div class="d-flex justify-center">
             <v-avatar color="primary" size="200" style="margin-top: 20px">
-              <v-img
-                src="../assets/Twitter_SrankSungJinwoo.png"
-                height="200px"
-              ></v-img>
+              <v-img src="../assets/IMG_5286.jpg" height="200px"></v-img>
             </v-avatar>
           </div>
 
