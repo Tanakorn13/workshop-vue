@@ -44,6 +44,10 @@
             <v-icon>mdi-headphones</v-icon>
             <h6 class="ml-1">Music</h6>
           </div>
+          <div class="d-flex align-center font-weight-semi-bold text-h5">
+            <v-icon>mdi-basketball</v-icon>
+            <h6 class="ml-1">Basketball</h6>
+          </div>
         </v-card-text>
       </div>
     </v-expand-transition>
